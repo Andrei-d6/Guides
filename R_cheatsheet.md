@@ -15,7 +15,7 @@ a <- matrix(c('a','b','c','d','e','f'),nrow=2,ncol=3) # matrice
 ```
 
 ### Opeartorul [] si [[]]
-[] -> returneaza un subset cu aceeasi clasa ca obiectul initial
+[] -> returneaza un subset cu aceeasi clasa ca obiectul initial <br>
 [[]] -> valoarea de return va avea calsa elementului
 
 ### Secvente de control
