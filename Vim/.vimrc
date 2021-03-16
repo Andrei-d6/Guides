@@ -24,9 +24,11 @@ highlight ColorColumn ctermbg=0 guibg=lightgrey
 
 set completeopt-=preview
 "colorscheme molokai
-colorscheme gruvbox
+"colorscheme gruvbox
+colorscheme vim-monokai-tasty 
 
 call plug#begin('~/.vim/plugged')
+Plug 'patstockwell/vim-monokai-tasty'
 Plug 'morhetz/gruvbox'
 Plug 'vim-utils/vim-man'
 Plug 'lyuts/vim-rtags'
