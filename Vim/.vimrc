@@ -14,7 +14,7 @@ set nobackup
 set undodir=~/.vim/undodir
 set undofile
 set incsearch
-"set termguicolors
+set termguicolors
 set scrolloff=8
 set visualbell
 set guicursor=
@@ -23,11 +23,12 @@ set colorcolumn=80
 highlight ColorColumn ctermbg=0 guibg=lightgrey
 
 set completeopt-=preview
-"colorscheme molokai
+colorscheme monokai
 "colorscheme gruvbox
-colorscheme vim-monokai-tasty 
+"colorscheme vim-monokai-tasty 
 
 call plug#begin('~/.vim/plugged')
+Plug 'https://github.com/jwohlwend/vim-sublime.git'
 Plug 'patstockwell/vim-monokai-tasty'
 Plug 'morhetz/gruvbox'
 Plug 'vim-utils/vim-man'
