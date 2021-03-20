@@ -19,6 +19,12 @@ Move your color schemes in the `~/.vim/colors` directory and don't forget to set
 ## Plugins
 Inside the `.vimrc` you may have some plugins.
 <br>
+In order for `plug` to work, you need to run:
+```bash
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+```
+
 If you want to install them run:
 ```bash
 :PlugInstall
@@ -32,4 +38,9 @@ and then **run `:PlugInstall` again** from inside the `.vimrc` file.
 
 
 ## Note
-Try to keep up to the the `.vimrc` file and the **colorschemes**.
+Try to keep up to the the `.vimrc` file and the **colorschemes**. <br>
+
+When installing `plug` you may also need to run
+```bash
+sudo apt install cmake
+```
