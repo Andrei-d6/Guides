@@ -16,5 +16,8 @@ Phase II:
 7. Read the **experimental**.
 8. (**Optional**) Write some notes (so you don't have to reread the whole paper again).
 
+<br>
+<br>
+<br>
 
 # How to Write a Paper in a Weekend
