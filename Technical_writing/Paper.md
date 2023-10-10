@@ -55,8 +55,8 @@ Now the hard (critical) part begins:
 <br>
 <br>
 
-Words of wisdom:
+### Words of wisdom:
 
 > Reading maketh a full man, conference a ready man and writing an exact man.
 
-* [Skillful writing of an awful research paper](https://pubs.acs.org/doi/10.1021/ac2000169)
+- [Skillful writing of an awful research paper](https://pubs.acs.org/doi/10.1021/ac2000169)
