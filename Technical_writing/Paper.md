@@ -1,7 +1,7 @@
 # How to Read a Paper Effectively
 
 The following rules are based on this wonderful [guide](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y). <br>
-**DO NOT** read the article from beggining to end. Feel free to stop the process at any point.
+**DO NOT** read the article from beginning to end. Feel free to stop the process at any point.
 
 Phase I (Surveying the paper):
 
@@ -22,7 +22,7 @@ Phase II:
 
 # How to Write a Paper in a Weekend
 
-The method/aglorithm for writing a paper is based on this wonderful [guide](https://www.youtube.com/watch?v=UY7sVKJPTMA). <br>
+The method/algorithm for writing a paper is based on this wonderful [guide](https://www.youtube.com/watch?v=UY7sVKJPTMA). <br>
 
 Preliminaries (they don't count for the "weekend" of writing):
 
@@ -34,10 +34,10 @@ Preliminaries (they don't count for the "weekend" of writing):
 
 The "ALGORITHM":
 
-1. Just get started (don't procastinate)
-2. Create an outlie
+1. Just get started (don't procrastinate)
+2. Create an outline
     - you probably won't finish the paper in one sitting
-    - list the figures and tables (as they may appear in the results and disussion)
+    - list the figures and tables (as they may appear in the results and discussion)
 3. **DO NOT** write the introduction of the paper (at this point - it is the hardest)
 4. Begin with the **Experimental** section (should be the easiest & most familiar)
 5. Now write the results and discussion (following the outline)
