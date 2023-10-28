@@ -1,0 +1,16 @@
+# Use serif fonts
+font.serif : cmr10, Computer Modern Serif, DejaVu Serif
+font.family : serif
+axes.formatter.use_mathtext : True
+mathtext.fontset : cm
+
+# Use LaTeX for math formatting
+text.usetex : True
+text.latex.preamble : \usepackage{amsmath} \usepackage{amssymb}
+
+
+text.color: k
+xtick.color: k
+ytick.color: k
+axes.labelcolor: k
+axes.edgecolor: k
