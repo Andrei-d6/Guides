@@ -2,7 +2,7 @@
 
 This guide is inspired by the **[SciencePlots](https://github.com/garrettj403/SciencePlots/)** package which offers *Matplotlib styles for scientific figures*. <br>
 
-This repo contains a set of Matplotlib styles for better formating of figures for research papers, academic articles, presentations, theses or any formal scientific document.
+This repo contains a set of Matplotlib styles for better formatting of figures for research papers, academic articles, presentations, theses or any formal scientific document.
 
 
 # TODO: ADD FIGURE HERE
@@ -22,7 +22,7 @@ import matplotlib.pyplot as plt
 plt.style.use('science.mlpstyle')
 
 
-# Otherwhise, change it to the corresponding path
+# Otherwise add the corresponding path
 import sys
 sys.path.append('../styles')
 ```
