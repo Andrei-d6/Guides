@@ -5,9 +5,19 @@ This guide is inspired by the **[SciencePlots](https://github.com/garrettj403/Sc
 This repo contains a set of Matplotlib styles for better formatting of figures for research papers, academic articles, presentations, theses or any formal scientific document.
 
 <div align="center">
-    <img src="examples/figures/trial.jpg" alt="Example plot" width="70%"/>
+    <img src="examples/figures/trial.jpg" width="75%"/>
 </div>
 
+## Table of contents
+
+1. [Using the Styles](#using-the-styles)
+2. [Styles Differences](#styles-differences)
+3. [Matplotlib Specifics](#matplotlib-specifics)
+   - [Matplotlib defaults](#matplotlib-defaults)
+   - [Setting the fonts](#setting-the-fonts)
+   - [Anatomy of a figure](#anatomy-of-a-figure)
+4. [Tutorials](#tutorials)
+5. [Examples](#examples)
 
 ## Using the Styles
 
@@ -21,8 +31,11 @@ import matplotlib.pyplot as plt
 
 # Assuming "science.mlpstyle" is in the current directory
 plt.style.use('science.mlpstyle')
+```
 
+If the style files are not in the same directory as the source code for plotting, one possible fix would be the following:
 
+```python
 # Otherwise here is a quick and dirty example for making it work
 # with an arbitrary path
 from pathlib import Path
@@ -98,28 +111,41 @@ xtick.labelsize:        12
 ytick.labelsize:        12
 ```
 
-### Ten simple rules for better figures
-
-On the subject of making better plots, the following [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) provides a comprehensive breakdown on some of the most important aspects to consider when creating scientific visualizations. <br>
-
-Also, a nice guide and repo from the previous paper (including the nice sine and cosine plot) on using matplotlib can be found [here](https://github.com/rougier/matplotlib-tutorial/tree/master).
 
 ### Anatomy of a figure
 
 Taken from [here](https://matplotlib.org/stable/users/explain/quick_start.html), the following image displays various elements of a matplotlib figure.
 
 <div align="center">
-    <img src="examples/figures/plot_anatomy.png" alt="Example plot" width="55%"/>
+    <img src="examples/figures/plot_anatomy.png" width="50%"/>
 </div>
 
-### Tutorials
+## Tutorials
 
 On the subject of having an example/tutorial on how to plot something nicely, please consider the following resources:
 
 - [Matplotlib Tutorial (2022): For Physicists, Engineers, and Mathematicians](https://www.youtube.com/watch?v=cTJBJH8hacc)
-- 
-
+- [Ten simple rules for better figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+- [Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial/tree/master)
 
 ## Examples
 
-<https://www.youtube.com/watch?v=cTJBJH8hacc&t=1593s>
+The [Plot_examples.ipynb](examples/Plot_examples.ipynb) notebook contains a few plot examples that make use of the styles provided in this guide/repo. For the source code, or any other implementation details, please check the notebooks in the [examples/](examples/) directory. That being said, here are a few examples of nice scientific visualizations.
+
+Using the `science` stylesheet.
+
+<div align="center">
+    <img src="examples/figures/sciencePlots.jpg" height="300"/>
+</div>
+
+Using the `minimal` configuration.
+
+<div align="center">
+    <img src="examples/figures/loss.jpg" height="300"/>
+</div>
+
+Example of `clasic` plot.
+
+<div align="center">
+    <img src="examples/figures/sine.jpg" height="300"/>
+</div>
