@@ -134,18 +134,13 @@ The [Plot_examples.ipynb](examples/Plot_examples.ipynb) notebook contains a few 
 
 Using the `science` stylesheet.
 
-<div align="center">
-    <img src="examples/figures/sciencePlots.jpg" height="300"/>
-</div>
+<img src="examples/figures/sciencePlots.jpg" height="300"/>
 
 Using the `minimal` configuration.
 
-<div align="center">
-    <img src="examples/figures/loss.jpg" height="300"/>
-</div>
+<img src="examples/figures/loss.jpg" height="300"/>
+
 
 Example of `clasic` plot.
 
-<div align="center">
-    <img src="examples/figures/sine.jpg" height="300"/>
-</div>
+<img src="examples/figures/sine.jpg" height="300"/>
