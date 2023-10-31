@@ -2,7 +2,9 @@
 
 This guide is inspired by the **[SciencePlots](https://github.com/garrettj403/SciencePlots/)** package which offers *Matplotlib styles for scientific figures*. <br>
 
-This repo contains a set of Matplotlib styles for better formatting of figures for research papers, academic articles, presentations, theses or any formal scientific document.
+This repo contains a set of Matplotlib styles for better formatting of figures for research papers, academic articles, presentations, theses or any formal scientific document. <br>
+
+**Important**. When setting the figure size for a plot, please keep in mind that the aspect ratio should be around `1.333333`. E.g. `(4, 3)`, `(3.5, 2.625)`, `(3.3, 2.5)` - IEEE.
 
 <div align="center">
     <img src="examples/figures/trial.jpg" width="75%"/>
