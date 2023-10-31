@@ -22,8 +22,8 @@ xtick.major.size:       4
 xtick.major.width:      0.7
 xtick.minor.size:       2
 xtick.minor.width:      0.7
-xtick.minor.visible:    True
-xtick.top:              True
+xtick.minor.visible:    False
+xtick.top:              False
 xtick.color:            0.2
 
 ytick.direction:        in     # direction: {in, out, inout}
@@ -31,8 +31,8 @@ ytick.major.size:       4
 ytick.major.width:      0.7
 ytick.minor.size:       2
 ytick.minor.width:      0.7
-ytick.minor.visible:    True
-ytick.right:            True
+ytick.minor.visible:    False
+ytick.right:            False
 ytick.color:            0.2
 
 
@@ -55,6 +55,8 @@ axes.edgecolor:         0.2
 text.color:             0.2
 axes.linewidth:         1
 lines.linewidth:        1.2
+axes.spines.right:      False
+axes.spines.top:        False
 
 
 
