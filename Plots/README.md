@@ -113,6 +113,12 @@ xtick.labelsize:        12
 ytick.labelsize:        12
 ```
 
+If you wish to set the general font size directly from code, it can be done as such:
+
+```python
+import matplotlib.pyplot as plt
+plt.rcParams.update({'font.size': 12})
+```
 
 ### Anatomy of a figure
 
