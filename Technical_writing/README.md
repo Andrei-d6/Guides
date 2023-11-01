@@ -12,13 +12,20 @@ https://latexeditor.lagrida.com/
 
 https://www.mybib.com/#/projects/o9qkDp/citations
 
+### Reading and writing papers
+
+Check the [guide](Paper.md) from this repo.
+
+
 ### General guidelines
 
-- follow [guide](Paper.md) on reading and writing papers
 - export plots and figures as `.svg`
 - make sure cross-references (Fig., Eq., Table) work
 - make sure links (wherever they are) work
 - clean up references (especially the links)
 
-### Miscelaneous
+### Miscellaneous
+
+- MS Word Autonumbering equations: https://www.youtube.com/watch?v=9YGTH4WrY_8
+  - `Insert > Autotext > InsEq`
 - MS Word Fig. code: https://pasternack.ucdavis.edu/research/methods/ms-word-fig-code
