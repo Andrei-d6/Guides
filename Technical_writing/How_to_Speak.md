@@ -8,6 +8,8 @@ The success in life will be determined largely by:
 
 > ! IN THAT ORDER.
 
+<br>
+
 ## How to Start
 
 - ~~Joke~~
@@ -16,6 +18,8 @@ The success in life will be determined largely by:
   - E.g. no laptops
 - PROMISE (of empowerment)
   - E.g. By the end of the 60 mins you'll have been exposed to ideas, some of which you will incorporate into your own repertoire.
+
+<br>
 
 ## 4 Sample Heuristics
 
@@ -36,6 +40,8 @@ Also, can you guess what is another idea to get someone back on the bus?
 ### Ask a Question
 
 You should wait around 7 seconds after asking the question (though it may seem as an eternity). The question should not be too easy, so that they feel dumb for answering it but also not too complex because nobody will know the answer.
+
+<br>
 
 ## The Tools
 
@@ -72,6 +78,9 @@ You should wait around 7 seconds after asking the question (though it may seem a
     <img src="./images/hapax_legomenon.jpeg" alt="Example Image" width="400"/>
 </center>
 
+<br>
+
+
 ## Informing
 
 - Again, that promise.
@@ -84,6 +93,8 @@ You should wait around 7 seconds after asking the question (though it may seem a
   - Mechanisms for analyzing those stories
   - Ways of putting the stories together
   - Ways of evaluating how reliable a story is
+
+<br>
 
 ## Persuading
 
@@ -101,6 +112,8 @@ So, it is a legitimate thing to concern yourself with packaging. How to get reme
 <center>
     <img src="./images/star.svg" alt="Example Image"/>
 </center>
+
+<br>
 
 ## How to Stop
 

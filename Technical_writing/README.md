@@ -17,6 +17,8 @@ https://www.mybib.com/#/projects/o9qkDp/citations
 Check the [guide](Paper.md) from this repo.
 
 
+### [How to Speak](./How_to_Speak.md)
+
 ### General guidelines
 
 - export plots and figures as `.svg`
