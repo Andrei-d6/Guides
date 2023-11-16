@@ -12,12 +12,13 @@ https://latexeditor.lagrida.com/
 
 https://www.mybib.com/#/projects/o9qkDp/citations
 
-### Reading and writing papers
+<br>
 
-Check the [guide](Paper.md) from this repo.
-
+### [Reading and writing papers](Paper.md)
 
 ### [How to Speak](./How_to_Speak.md)
+
+<br>
 
 ### General guidelines
 
