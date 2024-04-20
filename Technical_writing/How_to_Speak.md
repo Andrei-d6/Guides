@@ -72,7 +72,7 @@ You should wait around 7 seconds after asking the question (though it may seem a
 
 ### Hapax Legomenon
 
-- You can get away it such a thing exactly once.
+- You can get away with such a thing exactly once.
 
 <center>
     <img src="./images/hapax_legomenon.jpeg" alt="Example Image" width="400"/>
