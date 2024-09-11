@@ -2,15 +2,17 @@
 
 ## Table of Contents
 
-- [Elicit AI](#elicit-ai) 
-- [Perplexity AI](#perplexity-ai)
-- [Connected Papers](#connected-papers)
-- [Inciteful.xyz](#incitefulxyz)
-- [Chat-GPT](#chat-gpt)
+- [Elicit AI](#elicit-ai) - Literature review and summarzation
+- [Perplexity AI](#perplexity-ai) - Answering complex questions
+- [Connected Papers](#connected-papers) - Visualizing related research
+- [Inciteful.xyz](#incitefulxyz) - Discovering relevant research graphs
+- [Chat-GPT](#chat-gpt) - Multi-purpose assistant
+
+<br>
 
 ### [Elicit AI](https://elicit.com/)
 
-<img src="images/elicit.png" alt="Elicit AI Homepage" width="600"/>
+<img src="images/elicit.png" alt="Elicit AI Homepage" width="700"/>
 
 Strengths:
 
@@ -29,7 +31,7 @@ Limitations:
 
 ### [Perplexity AI](https://elicit.com/)
 
-<img src="images/perplexity.png" alt="Perplexity AI Homepage" width="600"/>
+<img src="images/perplexity.png" alt="Perplexity AI Homepage" width="700"/>
 
 Strengths:
 
@@ -47,7 +49,7 @@ Limitations:
 
 ### [Connected papers](https://www.connectedpapers.com/)
 
-<img src="images/connected_papers.png" alt="Connected Papers" width="600"/>
+<img src="images/connected_papers.png" alt="Connected Papers" width="700"/>
 
 Strenghts:
 
@@ -64,7 +66,7 @@ Limitations:
 
 ### [Inciteful.xyz](https://inciteful.xyz/)
 
-<img src="images/inciteful.png" alt="Inciteful" width="600"/>
+<img src="images/inciteful.png" alt="Inciteful" width="700"/>
 
 Strenghts:
 
