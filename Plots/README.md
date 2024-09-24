@@ -13,13 +13,14 @@ This repo contains a set of Matplotlib styles for better formatting of figures f
 ## Table of contents
 
 1. [Using the Styles](#using-the-styles)
-2. [Styles Differences](#styles-differences)
-3. [Matplotlib Specifics](#matplotlib-specifics)
+2. [Examples](#examples)
+3. [Styles Differences](#styles-differences)
+4. [Matplotlib Specifics](#matplotlib-specifics)
    - [Matplotlib defaults](#matplotlib-defaults)
    - [Setting the fonts](#setting-the-fonts)
    - [Anatomy of a figure](#anatomy-of-a-figure)
-4. [Tutorials](#tutorials)
-5. [Examples](#examples)
+5. [Tutorials](#tutorials)
+
 
 ## Using the Styles
 
@@ -70,6 +71,24 @@ with plt.style.context(['science.mlpstyle']):
     plt.plot(x, y)
     plt.show()
 ```
+
+## Examples
+
+The [Plot_examples.ipynb](examples/Plot_examples.ipynb) notebook contains a few plot examples that make use of the styles provided in this guide/repo. For the source code, or any other implementation details, please check the notebooks in the [examples/](examples/) directory. That being said, here are a few examples of nice scientific visualizations.
+
+Using the `science_tex` stylesheet.
+
+<img src="examples/figures/sciencePlots.jpg" height="300"/>
+
+Using the `science_tex` configuration.
+
+<img src="examples/figures/loss.jpg" height="300"/>
+
+
+Example of `science_tex` plot.
+
+<img src="examples/figures/sine.jpg" height="300"/>
+
 
 ## Styles Differences
 
@@ -136,19 +155,4 @@ On the subject of having an example/tutorial on how to plot something nicely, pl
 - [Ten simple rules for better figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
 - [Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial/tree/master)
 
-## Examples
 
-The [Plot_examples.ipynb](examples/Plot_examples.ipynb) notebook contains a few plot examples that make use of the styles provided in this guide/repo. For the source code, or any other implementation details, please check the notebooks in the [examples/](examples/) directory. That being said, here are a few examples of nice scientific visualizations.
-
-Using the `science` stylesheet.
-
-<img src="examples/figures/sciencePlots.jpg" height="300"/>
-
-Using the `minimal` configuration.
-
-<img src="examples/figures/loss.jpg" height="300"/>
-
-
-Example of `clasic` plot.
-
-<img src="examples/figures/sine.jpg" height="300"/>

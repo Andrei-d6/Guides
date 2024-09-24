@@ -22,18 +22,16 @@ xtick.major.size:       4
 xtick.major.width:      0.7
 xtick.minor.size:       2
 xtick.minor.width:      0.7
-xtick.minor.visible:    True
-xtick.top:              True
-xtick.color:            0.2
+xtick.minor.visible:    False
+xtick.top:              False
 
 ytick.direction:        in     # direction: {in, out, inout}
 ytick.major.size:       4
 ytick.major.width:      0.7
 ytick.minor.size:       2
 ytick.minor.width:      0.7
-ytick.minor.visible:    True
-ytick.right:            True
-ytick.color:            0.2
+ytick.minor.visible:    False
+ytick.right:            False
 
 
 
@@ -44,17 +42,15 @@ legend.frameon:         False
 legend.framealpha:      1.0
 legend.fancybox:        True
 legend.numpoints:       1
-legend.edgecolor:       0.2
 
 
 ## ***************************************************************************
 ## * AXES                                                                    *
 ## ***************************************************************************
-axes.labelcolor:        0.2
-axes.edgecolor:         0.2
-text.color:             0.2
 axes.linewidth:         1
 lines.linewidth:        1.2
+axes.spines.right:      False
+axes.spines.top:        False
 
 
 
@@ -73,3 +69,28 @@ grid.linewidth:         1
 ## ***************************************************************************
 savefig.bbox:           tight
 savefig.pad_inches:     0.05
+
+
+
+## ***************************************************************************
+## * FONT                                                                    *
+## ***************************************************************************
+font.serif:             cmr10, Computer Modern Serif, DejaVu Serif
+font.family:            serif
+axes.formatter.use_mathtext: True
+mathtext.fontset:       cm
+
+text.usetex:            True
+text.latex.preamble:    \usepackage{amsmath} \usepackage{amssymb}
+
+
+
+## ***************************************************************************
+## * COLORS                                                                  *
+## ***************************************************************************
+text.color:             k      # 0.2
+xtick.color:            k      # 0.2
+ytick.color:            k      # 0.2
+axes.labelcolor:        k      # 0.2
+axes.edgecolor:         k      # 0.2
+legend.edgecolor:       k      # 0.2
