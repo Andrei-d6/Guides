@@ -80,12 +80,12 @@ Using the `science_tex` stylesheet.
 
 <img src="examples/figures/sciencePlots.jpg" height="300"/>
 
-Using the `science_tex` configuration.
+Using the `minimal_tex` configuration.
 
 <img src="examples/figures/loss.jpg" height="300"/>
 
 
-Example of `science_tex` plot.
+Example of `clasic_tex` plot.
 
 <img src="examples/figures/sine.jpg" height="300"/>
 
