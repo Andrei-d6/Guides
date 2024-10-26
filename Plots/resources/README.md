@@ -1,7 +1,10 @@
 # Resources for making better plots
 
+## Table of contents
+
 1. [Selecting colors](#selecting-colors)
 2. [Tutorials](#tutorials)
+
 
 ## Selecting colors
 
@@ -9,8 +12,8 @@ Here are some useful resources for selecting colors:
 
 | Resource        | Link                                                          | Screenshot         |
 |------------------|---------------------------------------------------------------|---------------------|
-| Adobe Color      | [Adobe Color](https://color.adobe.com/create/color-wheel)    | <img src="images/adobe_color.png" width="150"/> |
-| Color Hunt       | [Color Hunt](https://colorhunt.co/)                          | <img src="images/color_hunt.png" width="150"/>   |
+| Adobe Color      | [Adobe Color](https://color.adobe.com/create/color-wheel)    | <img src="images/adobe_color.png" width="180"/> |
+| Color Hunt       | [Color Hunt](https://colorhunt.co/)                          | <img src="images/color_hunt.png" width="180"/>   |
 
 ## Tutorials
 
