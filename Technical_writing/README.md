@@ -12,6 +12,12 @@ https://latexeditor.lagrida.com/
 
 https://www.mybib.com/#/projects/o9qkDp/citations
 
+### Imaegs from presentations
+
+[Freepik](https://www.freepik.com/)
+
+<img src="images/freepik.png" height="200"/>
+
 <br>
 
 ### [Reading and writing papers](Paper.md)
