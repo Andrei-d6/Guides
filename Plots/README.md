@@ -19,7 +19,6 @@ This repo contains a set of Matplotlib styles for better formatting of figures f
    - [Matplotlib defaults](#matplotlib-defaults)
    - [Setting the fonts](#setting-the-fonts)
    - [Anatomy of a figure](#anatomy-of-a-figure)
-5. [Tutorials](#tutorials)
 
 
 ## Using the Styles
@@ -146,13 +145,3 @@ Taken from [here](https://matplotlib.org/stable/users/explain/quick_start.html),
 <div align="center">
     <img src="examples/figures/plot_anatomy.png" width="50%"/>
 </div>
-
-## Tutorials
-
-On the subject of having an example/tutorial on how to plot something nicely, please consider the following resources:
-
-- [Matplotlib Tutorial (2022): For Physicists, Engineers, and Mathematicians](https://www.youtube.com/watch?v=cTJBJH8hacc)
-- [Ten simple rules for better figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
-- [Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial/tree/master)
-
-
