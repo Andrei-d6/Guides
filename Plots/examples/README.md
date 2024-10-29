@@ -4,7 +4,7 @@
 
 Using a custom `minimal_grouped_barchart` style (based on the `minimal` style). The code for producing this plot can be found in [GroupedBarchart.ipynb](./GroupedBarchart.ipynb).
 
-<img src="figures/grouped_barchart.jpg" height="220"/>
+<img src="figures/grouped_barchart.jpg" height="250"/>
 
 ## Found
 
