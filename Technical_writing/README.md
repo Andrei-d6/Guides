@@ -12,7 +12,7 @@ https://latexeditor.lagrida.com/
 
 https://www.mybib.com/#/projects/o9qkDp/citations
 
-### Imaegs from presentations
+### Images for presentations
 
 [Freepik](https://www.freepik.com/)
 
