@@ -128,5 +128,5 @@ So, it is a legitimate thing to concern yourself with packaging. How to get reme
 
 - Joke <img src="./images/tick.svg" height="17"/>
 - Thank you <img src="./images/x.svg" height="15"/>
-  - You will no go to hell for saying thank you but it is a weak move.
+  - You will not go to hell for saying thank you but it is a weak move.
 - Salute the audience <img src="./images/tick.svg" height="17"/>
