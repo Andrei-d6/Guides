@@ -1,16 +1,12 @@
 # Technical writing resources (that have been useful so far)
 
-### Latex table generator
+### [Latex table generator](https://www.tablesgenerator.com/)
 
-https://www.tablesgenerator.com/
+### [Latex formula generator](https://latexeditor.lagrida.com/)
 
-### Latex formula generator
+### [Online bib citations](https://www.mybib.com/#/projects/o9qkDp/citations)
 
-https://latexeditor.lagrida.com/
-
-### Online bib citations
-
-https://www.mybib.com/#/projects/o9qkDp/citations
+<br>
 
 ### Images for presentations
 
