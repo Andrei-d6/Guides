@@ -8,6 +8,12 @@ The following "rules" are based on this wonderful [guide](https://youtu.be/vtIzM
 > Who's reading the text and what is its function. <br><br>
 > Writing is NOT conveying your ideas to your readers! It is changing their ideas.
 
+<br>
+
+---
+
+<br>
+
 <img src="images/writing_patterns.svg" height="250"/>
 
 What happens when you try to read a text NOT written in the way you seek to read it:
@@ -16,6 +22,8 @@ What happens when you try to read a text NOT written in the way you seek to read
 2. You don't understand
 3. You get aggravated
 4. You are DONE (you STOP)
+
+---
 
 Writing needs to be:
 
@@ -43,7 +51,7 @@ Help readers understand better something they want to understand well:
 
 <br>
 
-<img src="images/instability.svg" height="150"/>
+<img src="images/instability.svg" height="100"/>
 
 <br>
 
