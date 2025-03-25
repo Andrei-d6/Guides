@@ -16,9 +16,12 @@
 
 <br>
 
+### [How to Speak](./How_to_Speak.md)
+
+### [The Craft of Writing Effectvely](Effective_writing.md)
+
 ### [Reading and writing papers](Paper.md)
 
-### [How to Speak](./How_to_Speak.md)
 
 <br>
 
