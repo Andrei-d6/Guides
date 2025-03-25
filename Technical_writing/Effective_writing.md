@@ -8,8 +8,6 @@ The following "rules" are based on this wonderful [guide](https://youtu.be/vtIzM
 > Who's reading the text and what is its function. <br><br>
 > Writing is NOT conveying your ideas to your readers! It is changing their ideas.
 
-<br>
-
 ---
 
 <br>
@@ -23,6 +21,8 @@ What happens when you try to read a text NOT written in the way you seek to read
 3. You get aggravated
 4. You are DONE (you STOP)
 
+<br>
+
 ---
 
 Writing needs to be:
@@ -32,6 +32,7 @@ Writing needs to be:
 - Organized
 - clear
 
+<br>
 
 <img src="images/models_of_knowledge.svg" height="250"/>
 
