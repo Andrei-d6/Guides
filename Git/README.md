@@ -37,9 +37,12 @@ git checkout <commit hash> <file | folder>
 git commit -m "Version updated without branching"
 ```
 
+<<<<<<< HEAD
 <br>
 <br>
 
+=======
+>>>>>>> 4cb526c6c4dd2da7540d581b0dd69654210e7ed8
 # Part 2
 
 
