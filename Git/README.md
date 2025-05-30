@@ -37,6 +37,19 @@ git checkout <commit hash> <file | folder>
 git commit -m "Version updated without branching"
 ```
 
+### Undoing the last commit 
+
+```bash
+# Reset without losing uncommited changes (will change the commit history!)
+git reset --soft HEAD~1
+
+# Remove all unstaged changes
+git reset --hard HEAD~1
+
+# Creates a new commit with the changes that are rolled back 
+git revert <commit hash to revert>
+```
+
 <br>
 <br>
 
